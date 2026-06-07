@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 
+=======
+hello how are you 
+lần 2 ductoan
+lần 3 hoàn
+Lần 4 Thanh
+>>>>>>> parent of 9c4019a (Update project1.txt)
